@@ -10,7 +10,7 @@
 
 ## About
 
-I'm a computer science student, and most of what I know I taught myself — building real projects, breaking them, and rebuilding them better. I work across three areas: Roblox game development, full-stack web, and Discord bots. I care most about systems that are clean under the hood, not just functional on the surface.
+I'm a computer science student, and most of what I know I taught myself by building real projects, breaking them, and rebuilding them better. I work across three areas: Roblox game development, full-stack web, and Discord bots. I care most about systems that are clean under the hood, not just functional on the surface.
 
 ---
 
@@ -32,7 +32,7 @@ Sites built from scratch, focused on feeling distinct rather than templated:
 - Portfolio and showcase layouts with a strong visual identity
 
 **🤖 Discord Bots**
-Purpose-built bots for real use cases — most notably the detection half of my Roblox × Discord anti-cheat system.
+Purpose-built bots for real use cases, most notably the detection half of my Roblox × Discord anti-cheat system.
 
 ---
 
