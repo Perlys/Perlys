@@ -16,15 +16,15 @@
 
 ```lua
 local CoderLucas = {
-    role        = "Self-taught CS Student",
-    domains     = { "Roblox", "Web", "Discord Bots" },
-    philosophy  = "clean under the hood, not just functional on the surface",
-    learning    = "writing cleaner, more scalable systems every project",
+    role = "Self-taught CS Student",
+    domains = {"Roblox", "Web", "Discord Bots"},
+    philosophy = "clean under the hood, not just functional on the surface",
+    learning = "writing cleaner, more scalable systems every project",
 }
 
 -- how the work actually gets made
 function CoderLucas.process()
-    return "build real projects → break them → rebuild them better"
+    return "build real projects > break them > rebuild them better"
 end
 ```
 
