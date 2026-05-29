@@ -48,7 +48,7 @@ Sites built from scratch, focused on feeling distinct rather than templated:
 - Portfolio and showcase layouts with a strong visual identity
 
 **🤖 Discord Bots**
-Purpose-built bots for real use cases, most notably the detection half of my Roblox × Discord anti-cheat system.
+I create purpose built bots for real use cases, most notably the detection half of my Roblox × Discord anti-cheat system.
 
 ---
 
