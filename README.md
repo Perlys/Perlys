@@ -1,6 +1,6 @@
 <div align="center">
 
-# `@CoderLucass`
+# `CoderLucas`
 
 **Self-taught CS student building systems across Roblox, the web, and Discord.**
 
@@ -11,16 +11,6 @@
 ## About
 
 I'm a computer science student, and most of what I know I taught myself — building real projects, breaking them, and rebuilding them better. I work across three areas: Roblox game development, full-stack web, and Discord bots. I care most about systems that are clean under the hood, not just functional on the surface.
-
----
-
-## Featured Work
-
-> Swap these for links to your actual repos — this is the most valuable thing you can add to this page.
-
-- **[Roblox × Discord Anti-Cheat](#)** — exploit detection bot synced to in-game server authority. `Python` · `Node.js` · `Luau`
-- **[Project Name](#)** — one line on what it does and what's interesting about how it's built. `Luau`
-- **[Project Name](#)** — one line on what it does and what's interesting about how it's built. `HTML` · `CSS` · `JS`
 
 ---
 
