@@ -16,10 +16,10 @@
 
 ```lua
 local CoderLucas = {
-    role = "Self-taught CS Student",
-    domains = {"Roblox", "Web", "Discord Bots"},
-    philosophy = "clean under the hood, not just functional on the surface",
-    learning = "writing cleaner, more scalable systems every project",
+    Role = "Self taught CS Student",
+    Domains = {"Roblox", "Web", "Discord Bots"},
+    Philosophy = "clean under the hood, not just functional on the surface",
+    Learning = "writing cleaner, more scalable systems every project",
 }
 
 -- how the work actually gets made
