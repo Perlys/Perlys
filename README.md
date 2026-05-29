@@ -1,59 +1,69 @@
 <div align="center">
 
-# ✨ CoderLucass ✨
-### Computer Science Student building systems across games, web, and bots.
+# `@CoderLucass`
+
+**Self-taught CS student building systems across Roblox, the web, and Discord.**
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a CS Student, however I taught myself most of what I've learned independently, no courses, no bootcamps, just building real things and figuring it out. I work across three domains: Roblox game development, full-stack web, and Discord bots. Most of my work lives in personal projects where I prototype, test, and refine systems until they're actually good.
+I'm a computer science student, and most of what I know I taught myself — building real projects, breaking them, and rebuilding them better. I work across three areas: Roblox game development, full-stack web, and Discord bots. I care most about systems that are clean under the hood, not just functional on the surface.
+
+---
+
+## Featured Work
+
+> Swap these for links to your actual repos — this is the most valuable thing you can add to this page.
+
+- **[Roblox × Discord Anti-Cheat](#)** — exploit detection bot synced to in-game server authority. `Python` · `Node.js` · `Luau`
+- **[Project Name](#)** — one line on what it does and what's interesting about how it's built. `Luau`
+- **[Project Name](#)** — one line on what it does and what's interesting about how it's built. `HTML` · `CSS` · `JS`
 
 ---
 
 ## What I Build
 
-**🎮 Roblox - Game Development**
-I build complete game systems in Luau, handling both server and client side. My work covers:
-- Persistent data systems using DataStore with fallback handling
-- Combat mechanics with server authoritative hit validations
-- Custom UI and menu systems built with Roblox's UI engine
-- Admin tooling for moderation and runtime control
+**🎮 Roblox — Game Development**
+Full game systems across client and server in Luau:
+- Persistent data with DataStore and fallback handling
+- Server-authoritative combat with hit validation
+- Custom UI and menu systems
+- Admin and moderation tooling for runtime control
 - Matchmaking and lobby systems with player queue management
-- Anti-cheat and exploit prevention systems synced to roblox server authority
+- Anti-cheat and exploit prevention tied to server authority
 
-**🌐 Web - Frontend Development**
-I design and build websites completely from scratch in VSC, no templates, no helpers. My focus is on making things that look and feel unique:
-- Multi-page full sites with clean navigation and structure
-- Heavy interfaces with custom CSS animations
-- Portfolio sites with strong visual designs and layout
+**🌐 Web — Frontend Development**
+Sites built from scratch, focused on feeling distinct rather than templated:
+- Multi-page sites with clean navigation and structure
+- Custom CSS animations and motion-heavy interfaces
+- Portfolio and showcase layouts with a strong visual identity
 
 **🤖 Discord Bots**
-Functional, purpose built bots for real use cases. Most notable is a Roblox x Discord Anti-Cheat and exploit prevention detection bot.
+Purpose-built bots for real use cases — most notably the detection half of my Roblox × Discord anti-cheat system.
 
 ---
 
-## Skills Stack
+## Stack
 
 | Area | Languages & Tools |
 |---|---|
 | Game Dev | Luau, Roblox Studio |
 | Web | HTML, CSS, JavaScript |
 | Bots | Python, Node.js |
-| Environment | VSC, Git, GitHub |
+| Tooling | VS Code, Git, GitHub |
 
 ---
 
-## Where I'm At
+## Now
 
-I'm still learning while actively growing across all three stacks. Every project I build teaches me something new and I'm focused on writing cleaner, more scalable code over time.
+Actively leveling up across all three stacks. Current focus: writing cleaner, more scalable code and shipping projects I'd happily put my name on.
 
 ---
 
 ## Contact
 
-Got a project, question, or just want to talk?
-
-**Discord - @coderlucass**
+- **Discord** — `@coderlucass`
+- **GitHub** — [@CoderLucass](https://github.com/CoderLucass)
