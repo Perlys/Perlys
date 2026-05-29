@@ -54,7 +54,7 @@ I create purpose built bots for real use cases, most notably the detection half 
 
 ## Stack
 
-![Luau](https://img.shields.io/badge/Luau-000080?style=flat-square&logo=lua&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-E2231A?style=flat-square&logo=robloxstudio&logoColor=white)
 &nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
