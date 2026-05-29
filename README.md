@@ -33,7 +33,7 @@ end
 ## What I Build
 
 **🎮 Roblox — Game Development**
-Full game systems across client and server in Luau:
+Full game systems across client and server in Lua:
 - Persistent data with DataStore and fallback handling
 - Server-authoritative combat with hit validation
 - Custom UI and menu systems
