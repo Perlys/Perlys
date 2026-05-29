@@ -55,6 +55,6 @@ Actively leveling up across all three stacks. Current focus: writing cleaner, mo
 
 ## Contact
 
-- **Discord** — `@coderlucass`
+- **Discord** — `@coderlucas`
 - **Roblox** — [@CoderLucass](https://www.roblox.com/users/896441468/profile)
 - **GitHub** — [@CoderLucass](https://github.com/CoderLucass)
