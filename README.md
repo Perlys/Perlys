@@ -32,16 +32,16 @@ end
 
 ## What I Build
 
-**🎮 Roblox — Game Development**
+**🎮 Roblox - Game Development**
 Full game systems across client and server in Lua:
 - Persistent data with DataStore and fallback handling
-- Server-authoritative combat with hit validation
+- Server Authoritative combat with hit validation
 - Custom UI and menu systems
 - Admin and moderation tooling for runtime control
 - Matchmaking and lobby systems with player queue management
 - Anti-cheat and exploit prevention tied to server authority
 
-**🌐 Web — Frontend Development**
+**🌐 Web - Frontend Development**
 Sites built from scratch, focused on feeling distinct rather than templated:
 - Multi-page sites with clean navigation and structure
 - Custom CSS animations and motion-heavy interfaces
