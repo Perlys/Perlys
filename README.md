@@ -1,6 +1,6 @@
 <div align="center">
 
-# `CoderLucas`
+# `Perlys`
 
 **Self-taught CS student building systems across Roblox, the web, and Discord.**
 
@@ -15,7 +15,7 @@
 ## About
 
 ```lua
-local CoderLucas = {
+local Perly = {
     Role = "Self taught CS Student",
     Domains = {"Roblox", "Web", "Discord Bots"},
     Philosophy = "clean under the hood, not just functional on the surface",
@@ -23,7 +23,7 @@ local CoderLucas = {
 }
 
 -- how the work actually gets made
-function CoderLucas.process()
+function Perly.process()
     return "build real projects > break them > rebuild them better"
 end
 ```
@@ -80,4 +80,4 @@ Actively leveling up across all three stacks. Current focus: writing cleaner, mo
 
 [![Discord](https://img.shields.io/badge/Discord-@coderlucas-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![Roblox](https://img.shields.io/badge/Roblox-CoderLucass-E2231A?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/896441468/profile)
-[![GitHub](https://img.shields.io/badge/GitHub-CoderLucass-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoderLucass)
+[![GitHub](https://img.shields.io/badge/GitHub-CoderLucass-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Perlys)
