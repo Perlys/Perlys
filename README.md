@@ -79,5 +79,5 @@ Actively leveling up across all three stacks. Current focus: writing cleaner, mo
 ## Contact
 
 [![Discord](https://img.shields.io/badge/Discord-@iPerlyz-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Roblox](https://img.shields.io/badge/Roblox-CoderLucass-E2231A?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/896441468/profile)
-[![GitHub](https://img.shields.io/badge/GitHub-CoderLucass-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Perlys)
+[![Roblox](https://img.shields.io/badge/Roblox-iPerlyz-E2231A?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/896441468/profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Perlys-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Perlys)
